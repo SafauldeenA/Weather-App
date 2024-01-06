@@ -1,7 +1,7 @@
 // Safauldeen
 
 function getWeather() {
-  const apiKey = 'ab36f6f31e57224bb16ef4c17a39d787'; // Replace with your actual API key
+  const apiKey = 'your api'; // Replace with your actual API key
   const city = document.getElementById('city').value;
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
