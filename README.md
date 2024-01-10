@@ -8,11 +8,11 @@ Features
 Location-based Weather: Enter a city name to retrieve weather information.
 Temperature Display: Shows the temperature in Celsius.
 Weather Description: Displays a brief description of the weather condition.
-Installation
-Clone the repository:
+InstallationClone the repository:
 
 bash
 Copy code
+git clone https://github.com/SafauldeenA/Weather-App.git
 Open index.html in your browser.
 
 Get an API key from OpenWeatherMap and replace 'YOUR_API_KEY' in the getWeather() function in script.js with your API key.
